@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>TP2</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.wst.common.project.facet.core.builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.wst.validation.validationbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jem.workbench.JavaEMFNature</nature>
+		<nature>org.eclipse.wst.common.modulecore.ModuleCoreNature</nature>
+		<nature>org.eclipse.wst.common.project.facet.core.nature</nature>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/main/java/BeanPackage</name>
+			<type>2</type>
+			<location>C:/Users/amine/Desktop/Nouveau dossier/jee_example-master/jee_example-master/projetTest/src/BeanPackage</location>
+		</link>
+		<link>
+			<name>src/main/java/SQLPackage</name>
+			<type>2</type>
+			<location>C:/Users/amine/Desktop/Nouveau dossier/jee_example-master/jee_example-master/projetTest/src/SQLPackage</location>
+		</link>
+		<link>
+			<name>src/main/java/ServletPackage</name>
+			<type>2</type>
+			<location>C:/Users/amine/Desktop/Nouveau dossier/jee_example-master/jee_example-master/projetTest/src/ServletPackage</location>
+		</link>
+		<link>
+			<name>src/main/webapp/JSP_pages</name>
+			<type>2</type>
+			<location>C:/Users/amine/Desktop/Nouveau dossier/jee_example-master/jee_example-master/projetTest/WebContent/JSP_pages</location>
+		</link>
+		<link>
+			<name>src/main/webapp/NewFile.html</name>
+			<type>1</type>
+			<location>C:/Users/amine/Desktop/Nouveau dossier/jee_example-master/jee_example-master/projetTest/WebContent/NewFile.html</location>
+		</link>
+		<link>
+			<name>src/main/webapp/bootstrap</name>
+			<type>2</type>
+			<location>C:/Users/amine/Desktop/Nouveau dossier/jee_example-master/jee_example-master/projetTest/WebContent/bootstrap</location>
+		</link>
+		<link>
+			<name>src/main/webapp/form_input.html</name>
+			<type>1</type>
+			<location>C:/Users/amine/Desktop/Nouveau dossier/jee_example-master/jee_example-master/projetTest/WebContent/form_input.html</location>
+		</link>
+		<link>
+			<name>src/main/webapp/META-INF/classes</name>
+			<type>2</type>
+			<location>C:/Users/amine/Desktop/Nouveau dossier/jee_example-master/jee_example-master/projetTest/WebContent/META-INF/classes</location>
+		</link>
+		<link>
+			<name>src/main/webapp/WEB-INF/web.xml</name>
+			<type>1</type>
+			<location>C:/Users/amine/Desktop/Nouveau dossier/jee_example-master/jee_example-master/projetTest/WebContent/WEB-INF/web.xml</location>
+		</link>
+		<link>
+			<name>src/main/webapp/bootstrap/firstscreen</name>
+			<type>2</type>
+			<location>C:/Users/amine/Desktop/startbootstrap-heroic-features-gh-pages/firstscreen</location>
+		</link>
+		<link>
+			<name>src/main/webapp/bootstrap/sb2</name>
+			<type>2</type>
+			<location>C:/Users/amine/Desktop/startbootstrap-sb-admin-2-gh-pages/sb2</location>
+		</link>
+	</linkedResources>
+</projectDescription>
